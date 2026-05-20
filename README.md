@@ -10,10 +10,10 @@ The addon is built with **NestJS** and uses the **TMDB** API to fetch real movie
 
 ---
 
-## 🔗 Live Demo
+<!-- ## 🔗 Live Demo
 
 Install the addon directly in Stremio using the manifest:
-[https://stremio-moodie-addon.onrender.com/manifest.json](https://stremio-moodie-addon.onrender.com/manifest.json)
+[https://stremio-moodie-addon.onrender.com/manifest.json](https://stremio-moodie-addon.onrender.com/manifest.json) -->
 
 # ✨ Features
 
@@ -187,10 +187,10 @@ npm run start:prod
 
 # 🔌 Install the addon in Stremio
 
-You can install the live addon directly without running it locally:
+<!-- You can install the live addon directly without running it locally:
 
 Manifest URL (hosted on Render):
-https://stremio-moodie-addon.onrender.com/manifest.json
+https://stremio-moodie-addon.onrender.com/manifest.json -->
 
 To install locally:
 
